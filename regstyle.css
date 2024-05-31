@@ -1,0 +1,30 @@
+.singup{
+    background-image: url(https://images7.alphacoders.com/422/422958.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: 100%;
+    margin-top: 20px;
+}
+.s{
+    color:black;
+    align-items: start;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;   
+}
+.form{
+    background-image: url();
+    background-color: beige;
+    box-shadow: 10px 10px 100px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    line-height: 30px;
+}
+.Reservetext{
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 5px;
+}

@@ -1,0 +1,215 @@
+.main{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+}
+.logo ul {
+    display: flex;
+    flex-direction: row;
+}
+li {
+    margin-left: 8px;
+    list-style: none;
+    
+}
+.logo a{
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+/* .list2{ */
+    /* display: flex; */
+    /* flex-direction: row; */
+/* } */
+/* .list2{ */
+    /* margin-left: 180px; */
+/* } */
+li{
+    margin-left: 8px;
+    list-style: none;
+    font-size: 15px;
+}
+.v{
+    display: flex;
+    /* justify-content: space-around; */
+    margin-top: 20px;
+    justify-content: center;
+}
+.p{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-around; */
+    margin-bottom: 20px; 
+}
+
+.logo ul li{
+    font-size: 20px;
+}
+.hovor:hover{
+   color: aliceblue;
+   scale: 1.2;
+}
+.hovor a:hover{
+    color: black;
+}
+.slider{
+    display: flex;
+    flex-direction: row;
+
+}
+.l{justify-content: center;
+    border: solid 2px black;
+    font-size: x-large;
+    font-family: 'Gill Sans';
+    color: bisque;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(https://envato-shoebox-0.imgix.net/twenty20/production/uploads/items/0b4d8f34-a1e9-48c6-9040-44ec4889f5ba/source?auto=compress%2Cformat&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&w=1000&fit=max&markalign=center%2Cmiddle&markalpha=18&s=d1e0e24df10d3cd117e823f389c9b44c);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: 100%;
+}
+.h{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+.g{
+    border: solid 2px black;
+    text-align: center;
+     /* border-radius: 5px;  */
+}
+i{
+    color: black;
+}
+.fmain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(146, 176, 205);
+     border: solid 2px black; 
+    margin-top: 20px;
+}
+.c li{
+    font-size: 20px;
+}
+.c a{
+    font-size: 20px;
+    margin-left: 10px;
+    line-height: 10px;
+    text-decoration: none;
+    color: black;
+}
+.i{
+    border-radius: 50%;
+}
+.q{
+   /* border: solid 2px black;
+    background-color: rgb(146, 176, 205);*/ 
+    margin-bottom: 10px;
+}
+.g:hover{
+    color: black;
+    scale: 1.2;   
+}
+.g a:hover{
+ color: lightseagreen;   
+}
+.about{
+    font-size: x-large;
+    font-family: 'Gill Sans';
+    color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    padding: 20px;
+     border: solid black 3px; 
+    margin-top: 10px;
+    background-color: antiquewhite;
+}
+.aboutus{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.ab{
+    background-color: lightcyan;
+    font-size: 50px;
+}
+.aboutus-content{
+    width: 50%;
+    justify-content: center;
+}
+.button{
+    background-color: red;
+    border-radius: 30px;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.about-p{
+    font-size: 18px;
+    margin-left: 20px;
+}
+.about-img{
+    margin-left: 50px;
+}
+.r{
+    background-color: whitesmoke;
+    border: solid 2px black; 
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px;
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;   
+}
+.row2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;  
+}
+.r:hover{
+    color: black;
+    scale: 1.1;   
+}
+.r a:hover{
+ color: lightseagreen;   
+}
+.menu{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family:'Arial Narrow Bold';
+    font-weight: 700;
+    font-style: italic;
+    border: solid 3px black; 
+    padding: 10px;
+    margin-top: 10px;
+}
+.Gallary{
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: larger;
+    font-family:'Arial Narrow Bold';
+     border: 3px solid black; 
+    margin-top: 10px;
+}
+.copyright{
+    text-align: center;
+    font-size: 18px;
+}
